@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748798160389
+current_stage: None
+description: null
+last_updated_timestamp: 1748798160389
+name: WineQualityPredictor
+run_id: 3736fce472a84ad3aaf374387779a4eb
+run_link: null
+source: file:///d:/d%20drive/PROJECTS/Email_Spam_Detection/ml/mlruns/701486355752886543/3736fce472a84ad3aaf374387779a4eb/artifacts/wine_quality_model
+status: READY
+status_message: null
+storage_location: file:///d:/d%20drive/PROJECTS/Email_Spam_Detection/ml/mlruns/701486355752886543/3736fce472a84ad3aaf374387779a4eb/artifacts/wine_quality_model
+user_id: null
+version: 1

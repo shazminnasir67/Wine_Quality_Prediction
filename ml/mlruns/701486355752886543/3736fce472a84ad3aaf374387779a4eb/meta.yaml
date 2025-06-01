@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/d%20drive/PROJECTS/Email_Spam_Detection/ml/mlruns/701486355752886543/3736fce472a84ad3aaf374387779a4eb/artifacts
+end_time: 1748798160469
+entry_point_name: ''
+experiment_id: '701486355752886543'
+lifecycle_stage: active
+run_id: 3736fce472a84ad3aaf374387779a4eb
+run_name: unruly-bug-540
+run_uuid: 3736fce472a84ad3aaf374387779a4eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748798129979
+status: 3
+tags: []
+user_id: DELL
