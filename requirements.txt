@@ -1,0 +1,30 @@
+# Core ML Libraries
+pandas
+numpy
+scikit-learn
+
+# Web Framework
+fastapi
+uvicorn
+
+# Frontend
+streamlit
+requests
+
+# ML Experiment Tracking
+mlflow
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Model Serialization
+joblib
+
+# Additional FastAPI dependencies
+pydantic
+python-multipart
+
+# For deployment (optional)
+gunicorn
+
