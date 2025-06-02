@@ -221,7 +221,9 @@ st.sidebar.header("🤖 Model Information")
 if feature_names:
     st.sidebar.write("**Features used:**")
     for feature in feature_names:
-        st.sidebar.write f"• {feature}")
+        st.sidebar.write(f"• {feature}")
+
+
 
 st.sidebar.write("**Model:** Random Forest Regressor")
 st.sidebar.write("**Target:** Wine Quality (3-9 scale)")
